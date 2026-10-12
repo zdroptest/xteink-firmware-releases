@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "baseUrl": "https://raw.githubusercontent.com/zdroptest/xteink-firmware-releases/main/dictionaries/",
+  "dictionaries": [
+    {
+      "name": "WordNet (English)",
+      "description": "English definitions, examples and similar words - Princeton WordNet 3.1",
+      "folder": "WordNet",
+      "files": [
+        {
+          "name": "wordnet-LICENSE.txt",
+          "size": 1563,
+          "crc32": 3400385603
+        },
+        {
+          "name": "wordnet.dict.dz",
+          "size": 7822628,
+          "crc32": 3739966035
+        },
+        {
+          "name": "wordnet.idx",
+          "size": 3021180,
+          "crc32": 1377925070
+        },
+        {
+          "name": "wordnet.ifo",
+          "size": 319,
+          "crc32": 2378576648
+        },
+        {
+          "name": "wordnet.syn",
+          "size": 53547,
+          "crc32": 4124260620
+        }
+      ]
+    }
+  ]
+}
